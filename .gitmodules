@@ -1,3 +1,6 @@
 [submodule "openscad_stl_file_generator"]
 	path = openscad_stl_file_generator
 	url = https://github.com/nomike/openscad_stl_file_generator
+[submodule "openscad-screw-holes"]
+	path = openscad-screw-holes
+	url = https://github.com/nomike/openscad-screw-holes
