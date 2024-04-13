@@ -20,8 +20,8 @@ This also means, that the gemerated example STL files are not correct.
 
 #### Thingiverse
 
-<https://thingiverse.com/thing:>
+<https://thingiverse.com/thing:6576937>
 
 #### GitHub
 
-<>
+<https://github.com/nomike/parametric-screwdriver-holder-for-hsw>
